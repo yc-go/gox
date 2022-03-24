@@ -1,3 +1,3 @@
-module gitlab.yun-chang.com/go-common/gox
+module github.com/yc-go/gox
 
 go 1.18
